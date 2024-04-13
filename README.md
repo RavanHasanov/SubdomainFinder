@@ -7,5 +7,5 @@ This script searches for subdomains by appending words from a list to a target d
 1. Make sure you have Python installed.
 2. Clone the repository:
    ```bash
-   git clone https://github.com/RavanHasanov/subdomainFinder.git
+   git clone https://github.com/RavanHasanov/subdomain-finder.git
 # SubdomainFinder
